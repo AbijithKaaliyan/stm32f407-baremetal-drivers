@@ -4,6 +4,8 @@
 
 This repository contains a set of **bare-metal device drivers** developed for the STM32F407 microcontroller using **direct register-level programming** without relying on any vendor HAL libraries.
 
+All drivers implemented using direct register access without HAL.
+
 The goal of this project is to demonstrate a deep understanding of:
 
 * Microcontroller architecture
